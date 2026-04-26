@@ -4,6 +4,9 @@ This is a second semester project of our OOP lab. Made by Shaheer Ismail and Dev
 Features:
 1) Entirely based on Object Oriented Programming.
 2) A user can create an account from 2 types, current or savings.
-3) Funtions to withdraw and deposit amount.
-4) Implementation of GUI using QT library
-5) Interactive and Secure System
+3) Funtions to withdraw and deposit amount
+4) Allows user to login in to their account or create a new one.
+5) Allows them to close their account.
+6) Loads and saves data from text file.
+7) Implementation of GUI using QT library
+8) Interactive and Secure System
